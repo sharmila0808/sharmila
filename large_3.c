@@ -10,9 +10,9 @@ if(a>b&&a>c)
 {
 printf("a is large number");
 }
-elseif(b>a&&b>c)
+else if(b>a&&b>c)
 {
-prnitf("b is large number");
+printf("b is large number");
 }
 else
 {
